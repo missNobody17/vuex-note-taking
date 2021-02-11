@@ -1,4 +1,4 @@
-# vuex-note-taking
+# vuex-note-taking-app
 
 
 It is a new version of simple-note-taking app which was built with the help of an Event Bus,
